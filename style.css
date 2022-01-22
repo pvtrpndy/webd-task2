@@ -1,5 +1,5 @@
 body{
-    background-image: url(windows_xp_original-wallpaper-2880x1800.jpg);
+    background-image: url(marek-szturc-2s3fI3M1lO0-unsplash.jpg);
     
     background-position: 1px;
 
@@ -11,14 +11,18 @@ body{
     width: 60%;
     margin: 3% auto;
     background-color: white;
-    padding: 5px;
+    padding: 10px;
+    border-color: aqua;
     padding-bottom: 10px;
     border-radius: 20px;
+    
 }
 
 .data #info img{
     width: 100px;
     border-radius: 100px;
+    border: 2px solid rgb(2, 19, 255);
+    padding: 5px;
 }
 
 .data #education ul{
